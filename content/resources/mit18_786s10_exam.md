@@ -5,6 +5,7 @@ description: This resource contains 11 problems about dedekind domain, and a a n
   group.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-786-topics-in-algebraic-number-theory-spring-2010/d373f0f05f5b81ff4bcd40427e2b88a5_MIT18_786S10_exam.pdf
 file_type: application/pdf
+parent_uid: 1dae952e-e0bd-39f3-2164-c1c0f7099eab
 resourcetype: Document
 title: MIT18_786S10_exam.pdf
 uid: d373f0f0-5f5b-81ff-4bcd-40427e2b88a5
